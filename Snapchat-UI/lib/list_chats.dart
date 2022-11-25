@@ -1,0 +1,80 @@
+import 'package:snapchat/chat_screen.dart';
+
+List<Chats> chats = [
+  const Chats(
+    name: "Hayana",
+    time: "9h",
+    streaks: "69",
+    snap: true,
+    imglink: "https://ursus.news/wp-content/uploads/2020/10/gracezbio.jpg",
+  ),
+  const Chats(
+    name: "Harleen",
+    time: "1mo",
+    streaks: "82",
+    snap: false,
+    imglink: "https://i.postimg.cc/j2SCVDwP/oie-Cj-DYl9-Jk-Lm1i.png",
+  ),
+  const Chats(
+    name: "Hannah",
+    time: "10h",
+    streaks: "47",
+    snap: false,
+    imglink: "https://i.postimg.cc/hvC4MX63/oie-qsbxnx-Rvq1t-J.png",
+  ),
+  const Chats(
+    name: "Safeena",
+    time: "1w",
+    streaks: "28",
+    snap: true,
+    imglink: "https://i.postimg.cc/1RH5HdZV/oie-s-Yu-BJEHa-Npki.png",
+  ),
+  const Chats(
+    name: "Nainaa",
+    time: "6d",
+    streaks: "99",
+    snap: true,
+    imglink: "https://i.postimg.cc/pr33J8RZ/oie-e4yu-BFwiew-K7.png",
+  ),
+  const Chats(
+    name: "Chloe",
+    time: "4h",
+    streaks: "223",
+    snap: true,
+    imglink: "https://i.postimg.cc/66f1Yyfz/oie-QMLC181u30-Im.png",
+  ),
+  const Chats(
+    name: "Doom",
+    time: "2d",
+    streaks: "16",
+    snap: true,
+    imglink: "https://i.postimg.cc/SK8Jh0ZQ/oie-UXng3vlw-S8-WT.png",
+  ),
+  const Chats(
+    name: "Deva",
+    time: "",
+    streaks: "",
+    snap: false,
+    imglink: "https://i.postimg.cc/ryZZv77t/oie-QJh-HYe-Vis2cu.png",
+  ),
+  const Chats(
+    name: "Mugesh",
+    time: "15h",
+    streaks: "59",
+    snap: true,
+    imglink: "https://i.postimg.cc/28md9GSB/oie-CGFy-Hy-BJ0h-Kj.png",
+  ),
+  const Chats(
+    name: "Anbu",
+    time: "22h",
+    streaks: "22",
+    snap: true,
+  ),
+  const Chats(
+    name: "CJ",
+    time: "1h",
+    streaks: "2",
+    imglink: "https://i.postimg.cc/4dP4fXpG/oie-UBCu1i-QTLFO6.png",
+    snap: false,
+  ),
+];
